@@ -1,63 +1,58 @@
-Agentic-AI-Foundations
+#  Agentic-AI-Foundations
 
-A structured exploration of Agentic AI systems — focused on building stateful, orchestrated, and production-oriented LLM workflows.
+A structured exploration of **Agentic AI systems** — focused on building stateful, orchestrated, and production-oriented LLM workflows.
 
 After ~1.5 years in Machine Learning and Deep Learning (culminating in Transformers), this repository marks the transition into designing intelligent systems that coordinate, reason, and act.
 
-This is not a single project.
+This is not a single project.  
 It is a foundation layer for building scalable AI agents.
 
-🧠 What This Repository Covers
+---
 
-Prompt-chained LLM agents
+##  What This Repository Covers
 
-Stateful execution graphs (LangGraph)
+- Prompt-chained LLM agents  
+- Stateful execution graphs (LangGraph)  
+- Agent orchestration patterns  
+- Tool integration workflows  
+- Backend integration using FastAPI  
+- Structured reasoning pipelines  
+- Multi-step decision systems  
 
-Agent orchestration patterns
+---
 
-Tool integration workflows
-
-Backend integration using FastAPI
-
-Structured reasoning pipelines
-
-Multi-step decision systems
-
-🏗 Core Philosophy
+##  Core Philosophy
 
 Moving from:
 
-Training models
+> Training models  
 
 To:
 
-Orchestrating intelligence.
+> Orchestrating intelligence.
 
 This repository focuses on:
+- State management  
+- Controlled execution flow  
+- Modular node-based design  
+- Extensible agent architectures  
 
-State management
+---
 
-Controlled execution flow
+##  Tech Stack
 
-Modular node-based design
+- Python  
+- LangChain  
+- LangGraph  
+- Groq API  
+- FastAPI  
+- Environment-based configuration  
 
-Extensible agent architectures
+---
 
-🛠 Tech Stack
+## 📂 Repository Structure (Evolving)
 
-Python
-
-LangChain
-
-LangGraph
-
-Groq API
-
-FastAPI
-
-Environment-based configuration
-
-📂 Repository Structure (Evolving)
+```
 Agentic-AI-Foundations/
 │
 ├── prompt_chaining/
@@ -66,6 +61,36 @@ Agentic-AI-Foundations/
 ├── fastapi_integration/
 ├── experiments/
 └── README.md
-
+```
 
 Each directory represents a layer in building increasingly capable agent systems.
+
+---
+
+##  Roadmap
+
+- [x] First prompt-chained LLM agent  
+- [x] Stateful graph execution  
+- [ ] Conditional routing agents  
+- [ ] Tool-augmented agents  
+- [ ] Memory-enabled agents  
+- [ ] Multi-agent collaboration  
+- [ ] Production FastAPI deployment  
+
+---
+
+##  Vision
+
+This repository serves as a long-term build log and architectural sandbox for exploring:
+
+- Scalable agent design  
+- Modular reasoning systems  
+- Production-ready AI backends  
+- Intelligent orchestration frameworks  
+
+---
+
+
+
+Soham Mishra  
+Exploring Agentic AI, systems design, and intelligent orchestration.
