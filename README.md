@@ -15,7 +15,6 @@ It is a foundation layer for building scalable AI agents.
 - Stateful execution graphs (LangGraph)  
 - Agent orchestration patterns  
 - Tool integration workflows  
-- Backend integration using FastAPI  
 - Structured reasoning pipelines  
 - Multi-step decision systems  
 
