@@ -49,35 +49,6 @@ This repository focuses on:
 
 ---
 
-## 📂 Repository Structure (Evolving)
-
-```
-Agentic-AI-Foundations/
-│
-├── prompt_chaining/
-├── graph_workflows/
-├── tool_agents/
-├── fastapi_integration/
-├── experiments/
-└── README.md
-```
-
-Each directory represents a layer in building increasingly capable agent systems.
-
----
-
-##  Roadmap
-
-- [x] First prompt-chained LLM agent  
-- [x] Stateful graph execution  
-- [ ] Conditional routing agents  
-- [ ] Tool-augmented agents  
-- [ ] Memory-enabled agents  
-- [ ] Multi-agent collaboration  
-- [ ] Production FastAPI deployment  
-
----
-
 ##  Vision
 
 This repository serves as a long-term build log and architectural sandbox for exploring:
