@@ -63,4 +63,3 @@ This repository serves as a long-term build log and architectural sandbox for ex
 
 
 Soham Mishra  
-Exploring Agentic AI, systems design, and intelligent orchestration.
